@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Thiago Soares
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Java`**
 
 Me chamo Thiago Guerra Soares, tenho 19 anos e sou natural de Santos SP. Atualmente curso Sistemas para Internet na FATEC Baixada Santista. 
 
