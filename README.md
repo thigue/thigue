@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Soares
+# 👩🏻‍💻 Thiago G. Soares
 
 **`Desenvolvedor Java`**
 
