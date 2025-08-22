@@ -38,14 +38,6 @@ Me chamo Thiago Guerra Soares, tenho 19 anos e sou natural de Santos SP. Atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/svg/331760/sql-database-generic"
-/>
 
 <br/>
 <br/>
