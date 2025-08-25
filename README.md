@@ -1,43 +1,26 @@
-# 👩🏻‍💻 Thiago G. Soares
+# 👋 Olá, eu sou o Thiago Soares  
 
-**`Desenvolvedor Java`**
+🎯 Estudante de **Desenvolvimento Web** e apaixonado por tecnologia.  
+Buscando minha primeira oportunidade de **estágio em desenvolvimento**, onde eu possa aprender na prática e contribuir para soluções reais.  
 
-Me chamo Thiago Guerra Soares, tenho 19 anos e sou natural de Santos SP. Atualmente curso Sistemas para Internet na FATEC Baixada Santista. 
+---
 
-###  Linguagens e Tecnologias
+## 🚀 Tecnologias que estudo atualmente  
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-<br/>
-<br/>
+---
+
+## 📫 Contato
+- ✉️ Email: **thigue.soares@gmail.com**  
+- 💼 LinkedIn: [Thiago Soares](https://www.linkedin.com/in/thiago-soares-274bb2271/)  
+
+---
+
+⭐ Sempre aberto a aprender novas tecnologias e colaborar em projetos!
