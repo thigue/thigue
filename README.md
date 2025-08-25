@@ -1,29 +1,29 @@
-<div align="center">
-  <h1>Olá, eu sou o Thiago Soares 👋</h1>
-  <p>🚀 Estudante de Desenvolvimento Web | Apaixonado por tecnologia</p>
-  <p>Buscando minha primeira oportunidade de estágio em <b>desenvolvimento</b>, para aprender na prática e contribuir com soluções reais.</p>
-</div>
+# Olá, eu sou o Thiago Soares 👋
+
+🚀 Estudante de Desenvolvimento Web | Apaixonado por tecnologia
+
+Buscando minha primeira oportunidade de estágio em **desenvolvimento**, para aprender na prática e contribuir com soluções reais.
 
 ---
 
-### 🔧 Tecnologias que estudo atualmente
-<div align="center">
-  <span style="display:inline-block; margin:5px; font-weight:bold;">HTML5</span>
-  <span style="display:inline-block; margin:5px; font-weight:bold;">CSS3</span>
-  <span style="display:inline-block; margin:5px; font-weight:bold;">JavaScript</span>
-  <span style="display:inline-block; margin:5px; font-weight:bold;">Java</span>
-  <span style="display:inline-block; margin:5px; font-weight:bold;">Git</span>
-  <span style="display:inline-block; margin:5px; font-weight:bold;">GitHub</span>
-  <span style="display:inline-block; margin:5px; font-weight:bold;">SQL</span>
-</div>
+## 🛠 Tecnologias que estudo atualmente
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
 
 ---
 
-### 📫 Contato
-<div align="center">
-  <p>📧 Email: <code>thigue.soares@gmail.com</code></p>
-  <p>💼 LinkedIn: <code>Thiago Soares</code></p>
-</div>
+## 📫 Contato
+
+- ✉️ Email: [thigue.soares@gmail.com](mailto:thigue.soares@gmail.com)  
+- 💼 LinkedIn: [Thiago Soares](https://www.linkedin.com/in/thiago-soares-274bb2271/)
 
 ---
 
