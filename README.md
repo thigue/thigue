@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./8bcc8c64-0fe8-4fe4-b01d-c7099b84166f.png" width="150" style="border-radius:50%">
   <h1>Olá, eu sou o Thiago Soares 👋</h1>
   <p>🚀 Estudante de Desenvolvimento Web | Apaixonado por tecnologia</p>
   <p>Buscando minha primeira oportunidade de estágio em <b>desenvolvimento</b>, para aprender na prática e contribuir com soluções reais.</p>
