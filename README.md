@@ -1,28 +1,41 @@
-# Olá, eu sou o Thiago Soares 👋
+# Thiago Soares
+### Desenvolvedor .NET | Analista de Sistemas | Técnico em Banco de Dados
 
-🚀 Analista de Sistemas 
-
-Buscando conexões para compartilhar conhecimentos em tecnologia.
+Atualmente focado no desenvolvimento de soluções robustas com o ecossistema Microsoft, atuando diretamente em projetos de sistemas na **Transbrasa**. Tenho experiência prática em todo o ciclo de vida da aplicação, desde a modelagem de dados até a entrega de interfaces dinâmicas.
 
 ---
 
-## 🛠 Tecnologias 
+### 🛠️ Stack Tecnológica
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Razor Pages"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
 ---
 
-## 📫 Contato
+### 🚀 Experiência de Destaque
 
-- ✉️ Email: [thigue.soares@gmail.com](mailto:thigue.soares@gmail.com)  
-- 💼 LinkedIn: [Thiago Soares](https://www.linkedin.com/in/thiago-soares-274bb2271/)
+* **Desenvolvimento Web:** Implementação de sistemas utilizando **ASP.NET Core** e **Razor Pages**, focando em arquitetura limpa e performance de carregamento.
+* **Gestão de Dados & Migração:** Especialista em processos de **migração de bancos de dados entre Oracle e SQL Server**, garantindo a integridade, consistência e performance das informações em ambientes críticos.
+* **Análise de Sistemas:** Atuação direta na Transbrasa, transformando requisitos de negócio em soluções técnicas escaláveis.
 
 ---
 
-⭐ Sempre aberto a aprender novas tecnologias e colaborar em projetos!
+### 🎓 Formação Acadêmica
+* **Sistemas para Internet** – FATEC Rubens Lara (Em andamento)
+
+---
+
+### 📫 Contato
+<p>
+  <a href="mailto:thigue.soares@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-soares-274bb2271/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
