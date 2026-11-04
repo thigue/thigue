@@ -10,7 +10,6 @@ Atualmente focado no desenvolvimento de soluções robustas com o ecossistema Mi
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Razor Pages"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
@@ -19,8 +18,8 @@ Atualmente focado no desenvolvimento de soluções robustas com o ecossistema Mi
 
 ### 🚀 Experiência de Destaque
 
-* **Desenvolvimento Web:** Implementação de sistemas utilizando **ASP.NET Core** e **Razor Pages**, focando em arquitetura limpa e performance de carregamento.
-* **Gestão de Dados & Migração:** Especialista em processos de **migração de bancos de dados entre Oracle e SQL Server**, garantindo a integridade, consistência e performance das informações em ambientes críticos.
+* **Desenvolvimento Web:** Implementação de sistemas utilizando **ASP.NET Core**, focando em arquitetura limpa.
+* **Banco de Dados:** **Migração de bancos de dados entre Oracle e SQL Server**.
 * **Análise de Sistemas:** Atuação direta na Transbrasa, transformando requisitos de negócio em soluções técnicas escaláveis.
 
 ---
