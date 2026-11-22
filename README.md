@@ -1,40 +1,42 @@
 # Thiago Soares
-### Desenvolvedor .NET | Analista de Sistemas | Técnico em Banco de Dados
 
-Atualmente focado no desenvolvimento de soluções robustas com o ecossistema Microsoft, atuando diretamente em projetos de sistemas na **Transbrasa**. Tenho experiência prática em todo o ciclo de vida da aplicação, desde a modelagem de dados até a entrega de interfaces dinâmicas.
+**Desenvolvedor Back-end Júnior · C# e .NET**
 
----
+Durante **12 meses como estagiário de Sistemas na Transbrasa**, desenvolvi
+funcionalidades para sistemas corporativos com **C#, .NET 10 e Entity Framework**.
+Trabalhei com integração de APIs internas, gerenciamento de sessão e bancos
+de dados relacionais.
 
-### 🛠️ Stack Tecnológica
+## 🛠️ Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-</p>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-C74634?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+## 💼 Experiência na Transbrasa
 
-### 🚀 Experiência de Destaque
+- **Back-end:** implementei funcionalidades em C# com os padrões **Service**
+  e **Repository** para separar responsabilidades no código.
+- **Integrações e sessões:** consumi APIs internas por meio de uma biblioteca
+  corporativa em C# e implementei recursos de sessão com **claims**.
+- **Bancos de dados:** participei de uma migração de bancos de dados e trabalhei
+  com **SQL Server** e **Oracle SQL Developer**.
+- **Colaboração:** documentei funcionalidades, escrevi manuais de usuário e
+  participei de sprints semanais com a equipe.
+- **Interface web:** desenvolvi telas para sistemas corporativos usando **Bootstrap**.
 
-* **Desenvolvimento Web:** Implementação de sistemas utilizando **ASP.NET Core**, focando em arquitetura limpa.
-* **Banco de Dados:** **Migração de bancos de dados entre Oracle e SQL Server**.
-* **Análise de Sistemas:** Atuação direta na Transbrasa, transformando requisitos de negócio em soluções técnicas escaláveis.
+## 🎓 Formação
 
----
+**Tecnologia em Sistemas para Internet** — Fatec Baixada Santista  
+Conclusão prevista para julho de 2027.
 
-### 🎓 Formação Acadêmica
-* **Sistemas para Internet** – FATEC Rubens Lara (Em andamento)
+## 📫 Contato
 
----
+Busco oportunidades como **Desenvolvedor Back-end Júnior** com foco em **C# e .NET**.
+Pode me chamar por mensagem no LinkedIn.
 
-### 📫 Contato
-<p>
-  <a href="mailto:thigue.soares@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thiago-soares-274bb2271/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/thiago-soares-274bb2271/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thigue.soares@gmail.com)
