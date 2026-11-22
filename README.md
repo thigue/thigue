@@ -35,8 +35,5 @@ Conclusão prevista para julho de 2027.
 
 ## 📫 Contato
 
-Busco oportunidades como **Desenvolvedor Back-end Júnior** com foco em **C# e .NET**.
-Pode me chamar por mensagem no LinkedIn.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/thiago-soares-274bb2271/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thigue.soares@gmail.com)
