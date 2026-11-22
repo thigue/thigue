@@ -1,10 +1,10 @@
 # Thiago Soares
 
-**Desenvolvedor Back-end Júnior · C# e .NET**
+**Desenvolvedor .NET**
 
 Durante **12 meses como estagiário de Sistemas na Transbrasa**, desenvolvi
 funcionalidades para sistemas corporativos com **C#, .NET 10 e Entity Framework**.
-Trabalhei com integração de APIs internas, gerenciamento de sessão e bancos
+Participei em integração de APIs internas, gerenciamento de sessão e bancos
 de dados relacionais.
 
 ## 🛠️ Tecnologias
